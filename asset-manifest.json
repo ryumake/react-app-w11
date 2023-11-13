@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/react-app-w11/static/css/main.e6c13ad2.css",
+    "main.js": "/react-app-w11/static/js/main.08c8eec9.js",
+    "static/js/787.a4b45000.chunk.js": "/react-app-w11/static/js/787.a4b45000.chunk.js",
+    "static/media/roon.png": "/react-app-w11/static/media/roon.9a3acbc164e47d9c634a.png",
+    "static/media/champ.png": "/react-app-w11/static/media/champ.be293f7fd572f54c4d34.png",
+    "static/media/lol.png": "/react-app-w11/static/media/lol.89ec47e7f654d74c3a44.png",
+    "static/media/ps.png": "/react-app-w11/static/media/ps.19771d51e11594cdfffd.png",
+    "index.html": "/react-app-w11/index.html",
+    "main.e6c13ad2.css.map": "/react-app-w11/static/css/main.e6c13ad2.css.map",
+    "main.08c8eec9.js.map": "/react-app-w11/static/js/main.08c8eec9.js.map",
+    "787.a4b45000.chunk.js.map": "/react-app-w11/static/js/787.a4b45000.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.08c8eec9.js"
+  ]
+}
